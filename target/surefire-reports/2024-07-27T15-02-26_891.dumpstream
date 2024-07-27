@@ -1,0 +1,5 @@
+# Created at 2024-07-27T15:02:27.597
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Mahesh\Practise Source Code\SPRINGBOOT V1 PRACTISE WORKSPACE\springboot_aws_serverless\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,6 @@
+in\mshitlearner\Application.class
+in\mshitlearner\service\CourseService.class
+in\mshitlearner\StreamLambdaHandler.class
+in\mshitlearner\controller\CourseController.class
+in\mshitlearner\controller\PingController.class
+in\mshitlearner\dto\Course.class
